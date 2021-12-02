@@ -3,7 +3,7 @@
 If you are just beginning with web development then let's make your first contribution to the web development world !
 
 1. [`Preface`]()
-2. [`Contributing`]()
+2. [`Contributing`]()kjadnak
 3. [`Tutorial`]()
 
 ### :page_with_curl: Preface
